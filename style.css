@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.button-holder {
+    background-color: rgba(10, 18, 75, 0.94);
+    border: .5px solid rgb(168, 162, 176);
+
+}
+body {
+    background-color: rgb(192, 208, 219);
+}
+h2 {
+    font-weight: bold;
+}
+
+button#reset {
+    background-color: rgb(4, 4, 24);
+    border: solid black;
+    font-weight: 200;
+}
